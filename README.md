@@ -1,5 +1,6 @@
 # SliceWise-Insights
 📊 Project Overview
+
 Slicewise Insights is a Power BI dashboard project focused on analyzing pizza sales data to uncover business insights and support data-driven decisions. The dashboard offers a clear view of sales performance, customer behavior, and product trends across various categories.
 
 
