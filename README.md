@@ -5,6 +5,7 @@ Slicewise Insights is a Power BI dashboard project focused on analyzing pizza sa
 
 
 🎯 Objectives
+
 Analyze total and average sales across time periods
 
 Identify top-selling pizzas by category, size, and toppings
@@ -17,6 +18,7 @@ Provide actionable insights for business improvement
 
 
 📁 Data Source
+
 The dataset includes transactional sales data from a fictional pizza restaurant, with fields such as:
 
 Order ID
@@ -31,6 +33,7 @@ Price and Total Amount
 
 
 📌 Key Features
+
 Dynamic Filters: Slice data by date, category, and size
 
 KPIs Cards: Total Revenue, Total Orders, Best Seller
@@ -42,6 +45,7 @@ Category Insights: Sales by pizza type and size
 Interactive Charts: Bar charts, line graphs, pie charts, and tables
 
 🛠 Tools & Technologies
+
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
@@ -49,5 +53,6 @@ DAX (Data Analysis Expressions)
 Power Query for Data Cleaning
 
 📷 Dashboard Preview
+
 ![Screenshot (1)](https://github.com/user-attachments/assets/dd9bf046-e529-440a-9cb8-4cfd209de8f0)
 
